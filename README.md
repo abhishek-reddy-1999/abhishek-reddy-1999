@@ -1,8 +1,8 @@
 
 
-# Hi, I'm <YOUR NAME>! 👋
+# Hi, I'm Abhishek 👋
 
-I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
+I am a passionate B.Tech student at Audisankara college of enginnering and Technology, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
 ![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=abhishek-reddy-1999&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
@@ -18,7 +18,7 @@ I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for 
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,reactjs,nextjs,Nodejs,Asp.net,Bootstrap,tailwind,java,C#)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
