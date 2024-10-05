@@ -15,4 +15,4 @@ You can click the Preview link to take a look at your changes.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=abhishek-reddy-1999&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=abhishek-reddy-1999)
+
