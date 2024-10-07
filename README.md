@@ -5,7 +5,7 @@
 I am a passionate B.Tech student at Audisankara college of enginnering and Technology, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
 ![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=abhishek-reddy-1999&theme=vue-dark&show_icons=true&hide_border=true&count_private=false)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=abhishek-reddy-1999&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
 ## 🚀 About Me
 
 - 🔭 I'm currently Working at Indo-mim Tirupati.
