@@ -5,16 +5,18 @@
 I am a passionate B.Tech student at Audisankara college of enginnering and Technology, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
 ![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=abhishek-reddy-1999&theme=vue-dark&show_icons=true&hide_border=true&count_private=false)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=abhishek-reddy-1999&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
 ## 🚀 About Me
 
 - 🔭 I'm currently Working at Indo-mim Tirupati.
-<!-- - 📝 I write in-depth, long-form articles on my website [theenthusiast.dev](https://theenthusiast.dev), accumulating over 20k views within just 2 months.-->
+- 🌐 Development is my Hodddy
+<!-- - 📝 I write in-depth, long-form articles on my website [theenthusiast.dev](https://theenthusiast.dev), accumulating over 20k views within just 2 months.
 - 🌐 Proud member of the [Hackernoon Blogging Fellowship](https://hackernoon.com/), contributing to the tech community.
 - ✍️ Content Writer at [freeCodeCamp](https://www.freecodecamp.org/), gearing up to share valuable insights with the global coding community.
 
 ## My Articles
-- [JavaScript Engine and Runtime Explained](https://www.freecodecamp.org/news/javascript-engine-and-runtime-explained/)
+- [JavaScript Engine and Runtime Explained](https://www.freecodecamp.org/news/javascript-engine-and-runtime-explained/)-->
 
 
 ## Tech Stack
@@ -31,7 +33,7 @@ I am a passionate B.Tech student at Audisankara college of enginnering and Techn
 
  ## 🏆 Achievements
 
-- 🌟 Completed Hacktoberfest 2023 - Contributed to open source projects and celebrated the spirit of collaboration.
+- 🌟 Completed Hackerank Platinum 2023 - Contributed to open source projects and celebrated the spirit of collaboration.
 
 
 ## 📬 Get in Touch
